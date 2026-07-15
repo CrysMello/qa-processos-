@@ -10,6 +10,7 @@ Este repositório centraliza todos os **processos, artefatos e documentação** 
 - ✅ Versionar planilhas e documentos importantes
 - ✅ Registrar análises de causa raiz e melhorias
 
+----------
 ## 📁 Estrutura de Pastas
 
 qa-processos/

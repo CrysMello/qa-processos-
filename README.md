@@ -30,11 +30,7 @@ qa-processos/
 │ └── rcas-e-acoes/ # Análises de causa raiz
 │ ├── modelo-analise-causa-raiz.docx
 │ └── LEIA-ME.md # Como preencher um RCA
-│
-├── 03-relatorios/
-│ └── sessoes-2026/ # Relatórios executivos consolidados
-│ └── LEIA-ME.md # Como organizar relatórios
-│
+
 ├── docs/ # Documentação geral
 │ ├── padrao-nomenclatura.md # Regras de nomenclatura
 │ └── onboarding-qa.md # Guia para novos QAs (opcional)
